@@ -1,0 +1,26 @@
+{
+  "name": "nomi-env",
+  "version": "0.0.1",
+  "description": "This is the environment moudle of nomi node framework",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/williamkwg/nomi-env.git"
+  },
+  "author": "weiguo.kong",
+  "license": "ISC",
+  "keywords": [
+    "nomi",
+    "nomi-env", 
+    "env",
+    "nomi-environment",
+    "environment"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
