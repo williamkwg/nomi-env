@@ -1,6 +1,6 @@
 {
   "name": "nomi-env",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is the environment moudle of nomi node framework",
   "main": "./lib/index.js",
   "scripts": {
